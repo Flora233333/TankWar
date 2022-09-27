@@ -1,8 +1,8 @@
 # TankWar
 
-**I forget delete jre, so it's still in the out file, that because why it has 300 MB😭**
+**it has jre in file, that because why it has 300 MB**
 
-*2022.3.29 XTU🏫 First Grade AI Class 2*
+*2022.3.29 XTU🏫 First Grade*
 
 **A Game For Novice To Learn Java**
 
